@@ -6,14 +6,6 @@
 
 ---
 
-### Sobre mim
-
-- 🔭 Trabalhando no **[UchôaStock](https://github.com/Coelho7z7/Uch-aStock)** — sistema de controle de estoque de materiais de obra, em Go
-- 🌱 Estudando arquitetura de back-end, APIs e banco de dados
-- 💬 Pode me chamar sobre **Go**, **Python** e desenvolvimento web
-
----
-
 ### Tech Stack
 
 **Linguagens**
