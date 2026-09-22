@@ -25,15 +25,6 @@
 
 ---
 
-### GitHub
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Coelho7z7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coelho7z7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
----
-
 ### Contact
 
 <p align="left">
