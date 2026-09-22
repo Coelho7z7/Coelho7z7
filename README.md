@@ -1,7 +1,7 @@
 <h1 align="center">Matheus Coelho</h1>
 
 <p align="center">
-  Back-end developer · Go &amp; Python
+  Back-end developer
 </p>
 
 ---
