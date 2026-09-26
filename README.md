@@ -1,8 +1,22 @@
 <h1 align="center">Matheus Coelho</h1>
 
 <p align="center">
-  Back-end developer
+  Back-end developer · Go · Maceió, AL
 </p>
+
+Estudante de Desenvolvimento de Software, focado em backend. Construo aplicações web com Go e SQLite e gosto de resolver problemas reais, como o controle de estoque das obras onde trabalho.
+
+---
+
+### Projetos em destaque
+
+**[UchôaStock](https://github.com/Coelho7z7/UchoaStock)** · [demo ao vivo](https://uchoastock.up.railway.app/)  
+Controle de estoque de materiais de obra: entradas e saídas, alertas de materiais acabando, patrimônio, solicitações e permissões por cargo.  
+`Go` `SQLite` `HTML/CSS/JS` `Railway`
+
+**[JARVIS](https://github.com/Coelho7z7/JARVIS)**  
+Assistente pessoal por voz que controla o computador. Roda localmente com palavra de ativação, transcrição com Whisper e um LLM via Ollama.  
+`Python` `faster-whisper` `Ollama`
 
 ---
 
