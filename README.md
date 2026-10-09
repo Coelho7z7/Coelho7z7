@@ -4,7 +4,7 @@
   Back-end developer · Go · Maceió, AL
 </p>
 
-Estudante de Desenvolvimento de Software, focado em backend. Construo aplicações web com Go e SQLite e gosto de resolver problemas reais, como o controle de estoque das obras onde trabalho.
+Estudante de Desenvolvimento de Software, focado em backend. Construo aplicações web com Go e SQLite.
 
 ---
 
