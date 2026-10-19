@@ -10,6 +10,9 @@ Estudante de Desenvolvimento de Software, focado em backend. Construo aplicaçõ
 
 ### Projetos em destaque
 
+**[Site Uchôa Construções](https://uchoaconstrucoes.com.br/construcoes)** · em produção  
+Site institucional da Uchôa Construções, desenvolvido e publicado por mim em servidor próprio com CloudPanel e Cloudflare.
+
 **[UchôaStock](https://github.com/Coelho7z7/UchoaStock)** · [demo ao vivo](https://uchoastock.up.railway.app/)  
 Controle de estoque de materiais de obra: entradas e saídas, alertas de materiais acabando, patrimônio, solicitações e permissões por cargo.  
 `Go` `SQLite` `HTML/CSS/JS` `Railway`
