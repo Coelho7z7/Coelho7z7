@@ -13,9 +13,9 @@ Estudante de Desenvolvimento de Software. Construo aplicações web completas, c
 **[Site Uchôa Construções](https://uchoaconstrucoes.com.br/construcoes)** · finalizado e no ar  
 Site institucional da Uchôa Construções, desenvolvido e publicado por mim em servidor próprio com CloudPanel e Cloudflare.
 
-**[JARVIS](https://github.com/Coelho7z7/JARVIS)**  
-Assistente pessoal por voz que controla o computador. Roda localmente com palavra de ativação, transcrição com Whisper e um LLM via Ollama.  
-`Python` `faster-whisper` `Ollama`
+**[LIA](https://github.com/Coelho7z7/LIA)**  
+IA pessoal feita do zero: tokenizador BPE, Transformer estilo Llama e treino próprios, sem nenhum modelo pré-treinado de terceiros. Conversa no tom de um amigo e faz coisas no PC (abre apps e sites, pesquisa, cria lembretes, controla volume e música), tudo rodando localmente.  
+`Python` `PyTorch` `Transformer`
 
 ---
 
